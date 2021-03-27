@@ -10,3 +10,6 @@
 # Extract text from image 
 <img src="https://github.com/iqbaloutlaw/FinalProject_Preview/blob/main/Preview/extractmsg.png" alt="extractmsg" width="725" height="350">
 
+
+
+<h5 align="center">This final project finished in 2019-07-28, for source code the original project available in private repo</h5>
