@@ -2,5 +2,11 @@
 
 
 
+# Hidden text to image 
+<img src="https://github.com/iqbaloutlaw/FinalProject_Preview/blob/main/Preview/hidmessage.png" alt="hidmessage" width="815" height="350">
 
-<img src="https://github.com/iqbaloutlaw/FinalProject_Preview/blob/main/Preview/extractmsg.png" alt="extractmsg" width="750" height="315">
+
+
+# Extract text from image 
+<img src="https://github.com/iqbaloutlaw/FinalProject_Preview/blob/main/Preview/extractmsg.png" alt="extractmsg" width="725" height="350">
+
