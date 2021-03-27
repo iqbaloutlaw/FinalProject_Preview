@@ -3,15 +3,15 @@
 
 
 # Hidden text to image 
-<center>
+<p align="center">
 <img src="https://github.com/iqbaloutlaw/FinalProject_Preview/blob/main/Preview/hidmessage.png" alt="hidmessage" width="815" height="350">
-</center>
+</p>
 
 
 # Extract text from image 
-<center>
+<p align="center">
 <img src="https://github.com/iqbaloutlaw/FinalProject_Preview/blob/main/Preview/extractmsg.png" alt="extractmsg" width="725" height="350">
-</center>
+</p>
 
 
 <h4 align="center">This final project finished in 2019-07-28, for source code the original project available in private repo</h4>
