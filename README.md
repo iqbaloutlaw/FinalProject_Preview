@@ -3,4 +3,4 @@
 
 
 
-<img src="https://github.com/iqbaloutlaw/FinalProject_Preview/blob/main/Preview/extractmsg.png" alt="Bootstrap logo" width="1000" height="300">
+<img src="https://github.com/iqbaloutlaw/FinalProject_Preview/blob/main/Preview/extractmsg.png" alt="extractmsg" width="750" height="315">
